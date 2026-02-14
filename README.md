@@ -42,4 +42,5 @@ The program runs in a console environment and demonstrates basic Python programm
 Nisa Yadav  
 B.Tech (Computer Science)  
 CodeAlpha Internship
+https://github.com/yadavnisha301298-cyber/CodeAlpha-task2--stock-portfolio.git
 
